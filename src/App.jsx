@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
 function App() {
@@ -13,6 +12,7 @@ function App() {
         <h1>Now this project is up to date</h1>
         <h1>updates 1</h1>
         <h1>updates under process</h1>
+        <h1>this is my domain server</h1>
       </div>
     </>
   )
